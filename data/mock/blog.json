@@ -1,0 +1,392 @@
+[
+  {
+    "_id": "post-1",
+    "_type": "post",
+    "title": "Getting Started with Next.js 15",
+    "slug": {
+      "current": "getting-started-nextjs-15"
+    },
+    "excerpt": "Discover the powerful new features in Next.js 15 and learn how to build modern web applications with the latest tools and best practices.",
+    "publishedAt": "2026-01-02T10:00:00.000Z",
+    "author": {
+      "name": "Sarah Johnson",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-1",
+          "_type": "reference"
+        },
+        "alt": "Sarah Johnson"
+      },
+      "bio": "Full-stack developer and tech writer"
+    },
+    "categories": ["Next.js", "Web Development"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-1",
+        "_type": "reference"
+      },
+      "alt": "Next.js logo"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Next.js 15 introduces a host of exciting features that make building React applications easier and more efficient than ever. In this comprehensive guide, we'll explore the key improvements and show you how to get started."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "What's New?"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "The latest version brings improved performance, better developer experience, and enhanced server components. Let's dive into each of these improvements."
+          }
+        ]
+      }
+    ],
+    "featured": true,
+    "readTime": 8
+  },
+  {
+    "_id": "post-2",
+    "_type": "post",
+    "title": "Mastering TypeScript in 2026",
+    "slug": {
+      "current": "mastering-typescript-2026"
+    },
+    "excerpt": "A comprehensive guide to writing type-safe, maintainable code with TypeScript's latest features and patterns.",
+    "publishedAt": "2025-12-28T14:30:00.000Z",
+    "author": {
+      "name": "Michael Chen",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-2",
+          "_type": "reference"
+        },
+        "alt": "Michael Chen"
+      },
+      "bio": "TypeScript advocate and software architect"
+    },
+    "categories": ["TypeScript", "Programming"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-2",
+        "_type": "reference"
+      },
+      "alt": "TypeScript code"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "TypeScript has become the de facto standard for building large-scale JavaScript applications. This guide covers advanced patterns and best practices for 2026 and beyond."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Type Safety Patterns"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Learn how to leverage TypeScript's type system to catch errors at compile time and build more robust applications."
+          }
+        ]
+      }
+    ],
+    "featured": true,
+    "readTime": 12
+  },
+  {
+    "_id": "post-3",
+    "_type": "post",
+    "title": "Building Accessible Web Components",
+    "slug": {
+      "current": "building-accessible-web-components"
+    },
+    "excerpt": "Learn the essential principles of web accessibility and how to create inclusive components that work for everyone.",
+    "publishedAt": "2025-12-20T09:15:00.000Z",
+    "author": {
+      "name": "Emma Rodriguez",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-3",
+          "_type": "reference"
+        },
+        "alt": "Emma Rodriguez"
+      },
+      "bio": "Accessibility specialist and UX engineer"
+    },
+    "categories": ["Accessibility", "Web Development"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-3",
+        "_type": "reference"
+      },
+      "alt": "Accessibility icon"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Web accessibility isn't optional—it's a fundamental requirement for creating inclusive digital experiences. This guide will show you how to build components that work for all users."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "ARIA and Semantic HTML"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Understanding when and how to use ARIA attributes correctly is crucial for building accessible components."
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "readTime": 10
+  },
+  {
+    "_id": "post-4",
+    "_type": "post",
+    "title": "State Management in Modern React",
+    "slug": {
+      "current": "state-management-modern-react"
+    },
+    "excerpt": "Compare different state management solutions and learn when to use each approach in your React applications.",
+    "publishedAt": "2025-12-15T16:00:00.000Z",
+    "author": {
+      "name": "David Kim",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-4",
+          "_type": "reference"
+        },
+        "alt": "David Kim"
+      },
+      "bio": "React expert and open source contributor"
+    },
+    "categories": ["React", "State Management"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-4",
+        "_type": "reference"
+      },
+      "alt": "React components diagram"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "From Context API to Zustand, there are many ways to manage state in React. This article helps you choose the right tool for your needs."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "When to Use What"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Different applications have different needs. Let's explore when each state management solution makes sense."
+          }
+        ]
+      }
+    ],
+    "featured": true,
+    "readTime": 15
+  },
+  {
+    "_id": "post-5",
+    "_type": "post",
+    "title": "CSS Grid vs Flexbox: A 2026 Comparison",
+    "slug": {
+      "current": "css-grid-vs-flexbox-2026"
+    },
+    "excerpt": "Understand the strengths of each CSS layout system and when to use Grid versus Flexbox in modern web design.",
+    "publishedAt": "2025-12-10T11:45:00.000Z",
+    "author": {
+      "name": "Lisa Martinez",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-5",
+          "_type": "reference"
+        },
+        "alt": "Lisa Martinez"
+      },
+      "bio": "CSS architect and design systems expert"
+    },
+    "categories": ["CSS", "Web Design"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-5",
+        "_type": "reference"
+      },
+      "alt": "CSS layout examples"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "CSS Grid and Flexbox are both powerful layout tools, but they excel at different tasks. Learn when to use each for optimal results."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Layout Patterns"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "We'll explore common layout patterns and which technology is best suited for each one."
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "readTime": 7
+  },
+  {
+    "_id": "post-6",
+    "_type": "post",
+    "title": "Performance Optimization for React Apps",
+    "slug": {
+      "current": "performance-optimization-react"
+    },
+    "excerpt": "Practical techniques to make your React applications faster and more responsive for all users.",
+    "publishedAt": "2025-12-05T13:20:00.000Z",
+    "author": {
+      "name": "Alex Thompson",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "author-image-6",
+          "_type": "reference"
+        },
+        "alt": "Alex Thompson"
+      },
+      "bio": "Performance engineer and React consultant"
+    },
+    "categories": ["React", "Performance"],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "blog-image-6",
+        "_type": "reference"
+      },
+      "alt": "Performance metrics dashboard"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Performance is crucial for user experience. This guide covers practical optimization techniques every React developer should know."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Core Web Vitals"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Understanding and optimizing for Core Web Vitals will improve both user experience and SEO."
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "readTime": 11
+  }
+]
