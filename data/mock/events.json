@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "event-1",
+    "_type": "event",
+    "title": "Summer Tech Conference 2026",
+    "slug": {
+      "current": "summer-tech-conference-2026"
+    },
+    "excerpt": "Join us for a day of inspiring talks, workshops, and networking with tech enthusiasts from around the world.",
+    "description": "The Summer Tech Conference 2026 brings together innovators, developers, and technology leaders for a full day of learning and collaboration. Featuring keynote speakers from leading tech companies, hands-on workshops, and networking opportunities.",
+    "startDate": "2026-07-15T09:00:00.000Z",
+    "endDate": "2026-07-15T18:00:00.000Z",
+    "location": "Tech Hub Convention Center, San Francisco",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-1",
+        "_type": "reference"
+      },
+      "alt": "Conference hall with attendees"
+    },
+    "tags": ["technology", "conference", "networking"],
+    "eventType": "Conference",
+    "organizer": "Tech Community SF",
+    "capacity": 500,
+    "published": true,
+    "url": "https://example.com/events/summer-tech-conference",
+    "registrationUrl": "https://example.com/register/summer-tech-conference"
+  },
+  {
+    "_id": "event-2",
+    "_type": "event",
+    "title": "Web Design Workshop",
+    "slug": {
+      "current": "web-design-workshop"
+    },
+    "excerpt": "Learn the fundamentals of modern web design with hands-on exercises and expert guidance.",
+    "description": "A comprehensive workshop covering the principles of effective web design, from color theory and typography to responsive layouts and user experience. Perfect for beginners and intermediate designers looking to enhance their skills.",
+    "startDate": "2026-08-10T14:00:00.000Z",
+    "endDate": "2026-08-10T17:00:00.000Z",
+    "location": "Design Studio, New York",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-2",
+        "_type": "reference"
+      },
+      "alt": "Designer working on laptop"
+    },
+    "tags": ["design", "workshop", "web"],
+    "eventType": "Workshop",
+    "organizer": "Design Collective NYC",
+    "capacity": 30,
+    "published": true,
+    "url": "https://example.com/events/web-design-workshop",
+    "registrationUrl": "https://example.com/register/web-design-workshop"
+  },
+  {
+    "_id": "event-3",
+    "_type": "event",
+    "title": "Open Source Meetup",
+    "slug": {
+      "current": "open-source-meetup"
+    },
+    "excerpt": "Connect with fellow open source contributors and learn about exciting new projects.",
+    "description": "Monthly meetup for open source enthusiasts to share projects, discuss best practices, and collaborate on new ideas. Whether you're a seasoned contributor or just getting started, everyone is welcome!",
+    "startDate": "2026-08-25T18:30:00.000Z",
+    "endDate": "2026-08-25T21:00:00.000Z",
+    "location": "Code & Coffee, Austin",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-3",
+        "_type": "reference"
+      },
+      "alt": "Developers collaborating"
+    },
+    "tags": ["open-source", "meetup", "community"],
+    "eventType": "Meetup",
+    "organizer": "Austin Open Source",
+    "capacity": 50,
+    "published": true,
+    "url": "https://example.com/events/open-source-meetup",
+    "registrationUrl": "https://example.com/register/open-source-meetup"
+  },
+  {
+    "_id": "event-4",
+    "_type": "event",
+    "title": "React Masterclass",
+    "slug": {
+      "current": "react-masterclass"
+    },
+    "excerpt": "Deep dive into advanced React patterns and best practices with industry experts.",
+    "description": "This intensive masterclass covers advanced React concepts including performance optimization, state management patterns, server components, and testing strategies. Ideal for developers with React experience looking to level up their skills.",
+    "startDate": "2026-09-05T09:00:00.000Z",
+    "endDate": "2026-09-06T17:00:00.000Z",
+    "location": "Tech Academy, Seattle",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-4",
+        "_type": "reference"
+      },
+      "alt": "React code on screen"
+    },
+    "tags": ["react", "javascript", "workshop"],
+    "eventType": "Workshop",
+    "organizer": "Frontend Masters",
+    "capacity": 40,
+    "published": true,
+    "url": "https://example.com/events/react-masterclass",
+    "registrationUrl": "https://example.com/register/react-masterclass"
+  },
+  {
+    "_id": "event-5",
+    "_type": "event",
+    "title": "AI & Machine Learning Summit",
+    "slug": {
+      "current": "ai-ml-summit"
+    },
+    "excerpt": "Explore the latest trends and innovations in artificial intelligence and machine learning.",
+    "description": "Join leading AI researchers and practitioners for a comprehensive summit covering cutting-edge developments in machine learning, natural language processing, computer vision, and ethical AI. Features hands-on labs and real-world case studies.",
+    "startDate": "2026-10-20T08:00:00.000Z",
+    "endDate": "2026-10-21T18:00:00.000Z",
+    "location": "Innovation Center, Boston",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-5",
+        "_type": "reference"
+      },
+      "alt": "AI visualization"
+    },
+    "tags": ["ai", "machine-learning", "conference"],
+    "eventType": "Conference",
+    "organizer": "AI Research Institute",
+    "capacity": 300,
+    "published": true,
+    "url": "https://example.com/events/ai-ml-summit",
+    "registrationUrl": "https://example.com/register/ai-ml-summit"
+  },
+  {
+    "_id": "event-6",
+    "_type": "event",
+    "title": "UX Research Methods Workshop",
+    "slug": {
+      "current": "ux-research-methods"
+    },
+    "excerpt": "Master the essential techniques for conducting effective user research.",
+    "description": "Learn proven methods for understanding user needs, conducting interviews, usability testing, and synthesizing research findings into actionable insights. Includes practical exercises and templates you can use immediately.",
+    "startDate": "2026-11-12T10:00:00.000Z",
+    "endDate": "2026-11-12T16:00:00.000Z",
+    "location": "UX Lab, Portland",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-mock-6",
+        "_type": "reference"
+      },
+      "alt": "User research session"
+    },
+    "tags": ["ux", "research", "workshop"],
+    "eventType": "Workshop",
+    "organizer": "UX Professionals PDX",
+    "capacity": 25,
+    "published": true,
+    "url": "https://example.com/events/ux-research-methods",
+    "registrationUrl": "https://example.com/register/ux-research-methods"
+  }
+]
