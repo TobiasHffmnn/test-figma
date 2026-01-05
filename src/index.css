@@ -1,0 +1,51 @@
+/* 
+ * Global styles and Tailwind CSS imports
+ * This file is imported in main.tsx and applies styles to the entire application
+ */
+
+/* Import Inter font from Google Fonts for consistent typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Tailwind CSS directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS custom properties (variables) for theme colors */
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+}
+
+/* Reset default styles for consistent cross-browser rendering */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Set base styles for HTML and body */
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* Remove default link styling */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Ensure root div takes full height for proper layout */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
